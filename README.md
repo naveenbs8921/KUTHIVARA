@@ -170,6 +170,8 @@ For each elongated cluster:
 5. **Topological Hole Detection** — Counting enclosed regions via edge-flood exclusion
 6. **CIELAB Color Space Transformation** — Perceptually uniform color analysis
 7. **Scale-Invariant Feature Classification** — Resolution-independent shape categorization
+To Run this in codespace run this "npx serve ." in terminal
+
 
 ---
 
