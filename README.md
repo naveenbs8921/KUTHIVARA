@@ -47,13 +47,13 @@ npx serve .
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Landing Page](./assets/landing.png)
 *The KUTHIVARA landing page featuring our brutalist UI design and the interactive dropzone to upload messy handwriting.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Metres of Ink Analysis](./assets/metres.png)
 *The 'Metres of Ink' panel calculating the exact physical stroke length and converting it into highly scientific units like 'spaghetti strands', narrated by Scribble Man.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Topological Loop Detection](./assets/loops.png)
 *Our custom Closed Loop Finder successfully running topological hole detection to isolate and highlight enclosed loops, while the Harsh Critic roasts the user.*
 
 # Diagrams
