@@ -1,5 +1,11 @@
 # KUTHIVARA — The Useless Scribble Analyser
 
+
+
+To Run this in codespace run this "npx serve ." in terminal
+
+
+
 > A Computer Vision web application that dissects any handwritten page into absurdly detailed forensic metrics -- a fully client-side, zero-dependency HTML/JS app that runs entirely in your browser — all running entirely inside your browser.
 
 ---
@@ -170,7 +176,7 @@ For each elongated cluster:
 5. **Topological Hole Detection** — Counting enclosed regions via edge-flood exclusion
 6. **CIELAB Color Space Transformation** — Perceptually uniform color analysis
 7. **Scale-Invariant Feature Classification** — Resolution-independent shape categorization
-To Run this in codespace run this "npx serve ." in terminal
+
 
 
 ---
