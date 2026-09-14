@@ -24,11 +24,6 @@ For Software:
 - None (Zero dependencies, no npm)
 - HTML5 Canvas 2D API, Hand-rolled Math algorithms (PCA, CIELAB transforms)
 
-For Hardware:
-- N/A - Pure Software Project
-- N/A
-- N/A
-
 ### Implementation
 For Software:
 # Installation
