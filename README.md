@@ -76,7 +76,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[Watch the KUTHIVARA Demo Video on Google Drive](https://drive.google.com/drive/folders/1mU07xSMa5_C9rAAG2UhuQgBbTVwAAKNq?usp=sharing)
 *A walkthrough of uploading a handwritten page and navigating through the 8 absurdly detailed computer vision report panels.*
 
 # Additional Demos
