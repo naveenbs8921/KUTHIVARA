@@ -80,7 +80,7 @@ For Hardware:
 *A walkthrough of uploading a handwritten page and navigating through the 8 absurdly detailed computer vision report panels.*
 
 # Additional Demos
-[Add any extra demo materials/links]
+👉 **Live Project Website:** [https://naveenbs8921.github.io/KUTHIVARA/](https://naveenbs8921.github.io/KUTHIVARA/)
 
 ## Team Contributions
 - Naveen B S: Core Computer Vision algorithms, Topological loop detection, Data structuring, and Project Architecture.
